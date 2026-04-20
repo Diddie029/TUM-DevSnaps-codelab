@@ -1,6 +1,6 @@
 # TumDevsnaps - GDG on Campus TUM, Event
 
-##THEME : Build Without Limits : The next generation Developer experience.
+### THEME : Build Without Limits : The next generation Developer experience.
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.3.
 
